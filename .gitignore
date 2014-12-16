@@ -1,0 +1,11 @@
+xcuserdata
+*.xcuserstate
+*.o
+*.eo
+pforth
+pfdicdat.h
+pforth.dic
+pforth_standaone
+*.sublime-project
+*.sublime-workspace
+

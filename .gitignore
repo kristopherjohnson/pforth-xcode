@@ -5,7 +5,7 @@ xcuserdata
 pforth
 pfdicdat.h
 pforth.dic
-pforth_standaone
+pforth_standalone
 *.sublime-project
 *.sublime-workspace
 

@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:pforth.xcodeproj">
+      location = "group:pforth/pforth.xcodeproj">
    </FileRef>
 </Workspace>

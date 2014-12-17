@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>B7184C8B-39A0-41F7-B3CA-247434FA5F60</string>
+	<key>IDESourceControlProjectName</key>
+	<string>pforth</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>E120024CD0725DEA97755B528363D2FD0A5FC93E</key>
+		<string>https://github.com/kristopherjohnson/pforth-xcode.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>build/xcode/pforth.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>E120024CD0725DEA97755B528363D2FD0A5FC93E</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/kristopherjohnson/pforth-xcode.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>E120024CD0725DEA97755B528363D2FD0A5FC93E</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E120024CD0725DEA97755B528363D2FD0A5FC93E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>pforth</string>
+		</dict>
+	</array>
+</dict>
+</plist>

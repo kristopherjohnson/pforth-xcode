@@ -2,7 +2,6 @@ xcuserdata
 *.xcuserstate
 *.o
 *.eo
-pforth
 pfdicdat.h
 pforth.dic
 pforth_standalone
